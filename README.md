@@ -169,16 +169,23 @@ Deep learning project comparing CNN, ResNet50 and VGG16 for facial image classif
 
 <p>
 
-<a href="https://leetcode.com/u/MahimaS_Rathore/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<h2>🤝 Connect With Me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mahima-singh-rathore">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://github.com/MahimaSinghRathore">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 <a href="https://portfolio-frontend-ebon-seven.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://cdn.simpleicons.org/vercel/white" width="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mahima-singh-rathore">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://leetcode.com/u/MahimaS_Rathore/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
 </a>
 
 </p>
