@@ -103,18 +103,6 @@ Modern responsive portfolio showcasing my projects, technical skills and achieve
 
 ---
 
-## 🎯 AI Interview Practice Platform (Currently Building)
-
-An AI-powered platform for practicing
-
-- HR Interviews
-- Technical Interviews
-- Aptitude
-- Group Discussions
-- Resume Feedback
-
----
-
 # 📚 Currently Learning
 
 - Advanced DSA
