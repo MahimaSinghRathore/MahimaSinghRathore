@@ -1,147 +1,230 @@
 <h1 align="center">Hi 👋, I'm Mahima Singh</h1>
 
 <h3 align="center">
-Building software that solves real-world problems through AI and Web Development.
+Software Engineering Enthusiast | AI & Full-Stack Developer | Final Year CSE Student
 </h3>
 
 <p align="center">
-🎓 Final Year B.Tech CSE Student at JUIT <br>
-💻 Aspiring Software Engineer <br>
-🚀 Always learning, always building.
+I enjoy building practical software, exploring AI, and solving real-world problems through code.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MahimaSinghRathore&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/MahimaSinghRathore?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/MahimaSinghRathore?label=Stars&style=social" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👩‍💻 About Me
 
-I enjoy turning ideas into working applications.
+🎓 Final Year B.Tech Computer Science Student at **Jaypee University of Information Technology**
 
-From AI-based healthcare solutions to full-stack web applications, I love exploring how technology can solve practical problems. Currently, I'm focused on strengthening my Software Engineering skills through projects, DSA, and backend development.
+💡 Passionate about Software Development, Artificial Intelligence and Backend Engineering.
 
-Outside coding, you'll probably find me solving LeetCode problems, improving my GitHub, or building something new just to learn how it works.
+🌱 Currently learning
+
+- Data Structures & Algorithms
+- System Design
+- Backend Development
+- Machine Learning
+
+🚀 Current Goal
+
+Build impactful software and secure a Software Engineering role where I can solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
-- C++
-- Python
-- JavaScript
-- PHP
-- SQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,c,js,php,sql" />
+</p>
 
 ### Web Development
-- HTML
-- CSS
-- Flask
-- Bootstrap
-- MySQL
 
-### AI & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🧠 Down Syndrome Detection using Deep Learning
+
+Deep Learning project comparing CNN, ResNet50 and VGG16 for facial image classification.
+
+**Tech Used**
+
+- Python
 - TensorFlow
 - Keras
 - OpenCV
-- NumPy
-- Scikit-learn
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Google Colab
-- MySQL Workbench
 
 ---
 
-## 🌟 Featured Projects
+## 🏥 Medical Leave Management System
 
-🧠 **Down Syndrome Detection**
-> Deep learning project comparing CNN, ResNet50 and VGG16 for facial image classification.
+A complete Leave Management Portal developed using PHP and MySQL.
 
-🏥 **Medical Leave Management System**
-> Full-stack leave management portal using PHP and MySQL.
+**Features**
 
-🌐 **Personal Portfolio**
-> Responsive portfolio website showcasing my projects and technical skills.
-
-🎯 **AI Interview Practice Platform (In Progress)**
-> AI-powered platform to practice HR, Technical and Behavioral interviews.
+- Student Login
+- Faculty Approval
+- Leave Tracking
+- Admin Dashboard
 
 ---
 
-## 📈 Currently Working On
+## 🌐 Personal Portfolio Website
 
-- 🔹 Advanced Data Structures & Algorithms
-- 🔹 Backend Development
-- 🔹 System Design Fundamentals
-- 🔹 AI Interview Platform
-- 🔹 Open Source Contributions
+Modern responsive portfolio showcasing my projects, technical skills and achievements.
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 AI Interview Practice Platform (Currently Building)
+
+An AI-powered platform for practicing
+
+- HR Interviews
+- Technical Interviews
+- Aptitude
+- Group Discussions
+- Resume Feedback
+
+---
+
+# 📚 Currently Learning
+
+- Advanced DSA
+- Operating Systems
+- DBMS
+- Computer Networks
+- System Design
+- Backend APIs
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MahimaSinghRathore&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahimaSinghRathore&theme=tokyonight" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MahimaSinghRathore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahimaSinghRathore&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌱 My Learning Journey
+# 🔥 Contribution Streak
 
-```
-Learn 📚
-     ↓
-Build 💻
-     ↓
-Break 🐞
-     ↓
-Debug 🔧
-     ↓
-Improve 🚀
-     ↓
-Repeat ♾️
-```
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MahimaSinghRathore&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🤝 Let's Connect
+# 📈 Activity Graph
 
-💼 LinkedIn:
-www.linkedin.com/in/mahima-singh-rathore
+<p align="center">
 
-💻 LeetCode:
-https://leetcode.com/u/MahimaS_Rathore/
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahimaSinghRathore&theme=tokyo-night&hide_border=true"/>
 
-🌐 Portfolio:
-https://portfolio-frontend-ebon-seven.vercel.app
-
-📧 Email:
-your-email@gmail.com
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🏆 GitHub Summary
 
-*"Every project here represents something I didn't know before I started building it."*
+<p align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahimaSinghRathore&theme=tokyonight"/>
 
-## 💡 Philosophy
+</p>
 
-> "The best way to learn programming isn't by reading more tutorials.
-> It's by building something that didn't exist yesterday."
+<p align="center">
 
-## ☕ Fun Facts
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahimaSinghRathore&theme=tokyonight"/>
 
-- 💻 I enjoy building projects more than watching tutorials.
-- 🧩 Debugging teaches me more than success.
-- 🌱 I believe consistency beats intensity.
-- 🎯 Goal: Become a Software Engineer.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahimaSinghRathore&theme=tokyonight"/>
 
-  ![](https://komarev.com/ghpvc/?username=MahimaSinghRathore&color=blue)
+</p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=MahimaSinghRathore&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
 
-  ![Snake animation](https://github.com/MahimaSinghRathore/MahimaSinghRathore/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahimaSinghRathore&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahimaSinghRathore&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 💡 Philosophy
+
+> "Every project teaches something a tutorial never can."
+
+---
+
+# 🌱 Beyond Coding
+
+- 💻 Building projects
+- 📚 Reading about new technologies
+- 🧩 Solving LeetCode problems
+- 🤝 Learning through collaboration
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/mahima-singh-rathore">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/MahimaSinghRathore">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://leetcode.com/u/MahimaS_Rathore/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://portfolio-frontend-ebon-seven.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
