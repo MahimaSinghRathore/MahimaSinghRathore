@@ -122,16 +122,6 @@ Deep learning project comparing CNN, ResNet50 and VGG16 for facial image classif
 
 ---
 
-# 📈 Contribution Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahimaSinghRathore&theme=github_dark"/>
-
-</p>
-
----
-
 # ⚡ Development Insights
 
 <p align="center">
