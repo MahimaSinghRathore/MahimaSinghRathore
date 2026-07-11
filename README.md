@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="300">
+  <img src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" width="330"/>
 </p>
 
 <p align="center">
