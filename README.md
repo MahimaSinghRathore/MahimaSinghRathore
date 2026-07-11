@@ -118,10 +118,10 @@ A platform to help students prepare for
 
 ---
 
-# 🔥 Contribution Streak
+## 📊 GitHub Metrics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MahimaSinghRathore&theme=github-dark-blue&hide_border=true"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahimaSinghRathore&theme=github_dark"/>
 </p>
 
 ---
