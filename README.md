@@ -118,11 +118,10 @@ A platform to help students prepare for
 
 ---
 
-# 🔥 GitHub Performance
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahimaSinghRathore&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahimaSinghRathore&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MahimaSinghRathore&theme=transparent&hide_border=true"/>
 </p>
 
  ---
