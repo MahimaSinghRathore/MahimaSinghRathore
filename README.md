@@ -118,20 +118,15 @@ A platform to help students prepare for
 
 ---
 
-## 📊 GitHub Statistics
+# 🔥 GitHub Performance
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahimaSinghRathore&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahimaSinghRathore&theme=github_dark&utcOffset=5.5"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahimaSinghRathore&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahimaSinghRathore&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
-<p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahimaSinghRathore&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahimaSinghRathore&theme=github_dark"/>
-</p>
-
+ ---
+ 
 # 📈 Activity Graph
 
 <p align="center">
