@@ -118,12 +118,11 @@ A platform to help students prepare for
 
 ---
 
-## 📊 GitHub Metrics
+## ⏱ Coding Activity
 
 <p align="center">
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahimaSinghRathore&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MahimaSinghRathore&theme=github_dark&hide_border=true"/>
 </p>
-
 ---
 
 # 📈 Activity Graph
