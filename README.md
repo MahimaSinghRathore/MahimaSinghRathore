@@ -169,8 +169,6 @@ Deep learning project comparing CNN, ResNet50 and VGG16 for facial image classif
 
 <p>
 
-<h2>🤝 Connect With Me</h2>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/mahima-singh-rathore">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
