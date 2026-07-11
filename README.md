@@ -112,11 +112,12 @@ Deep learning project comparing CNN, ResNet50 and VGG16 for facial image classif
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=MahimaSinghRathore&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahimaSinghRathore&theme=github_dark"/>
+</p>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahimaSinghRathore&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahimaSinghRathore&theme=github_dark"/>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahimaSinghRathore&theme=github_dark"/>
 </p>
 
 ---
