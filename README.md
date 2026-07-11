@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahima Singh</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Software+Engineering+Enthusiast;Full-Stack+Developer;Problem+Solver;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="280">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300">
 </p>
 
 <p align="center">
