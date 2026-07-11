@@ -118,12 +118,19 @@ A platform to help students prepare for
 
 ---
 
-## ⏱ Coding Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MahimaSinghRathore&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahimaSinghRathore&theme=github_dark"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahimaSinghRathore&theme=github_dark&utcOffset=5.5"/>
 </p>
----
+
+<p align="center">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahimaSinghRathore&theme=github_dark"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahimaSinghRathore&theme=github_dark"/>
+</p>
 
 # 📈 Activity Graph
 
